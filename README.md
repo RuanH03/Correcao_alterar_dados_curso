@@ -1,5 +1,6 @@
 # Correcao_alterar_dados_curso
 💡 Execute os scripts que estão na pasta "<i>cadastro_bd\scripts_banco</i>" no Workbench ou no PHPMyAdmin. Execute os scripts na ordem abaixo :
+
 <i>
 📌 1 - Crie o schema "curso", dentro deste schema execute os scripts abaixo <br>
 📌 2 - tb_aluno.sql<br>
