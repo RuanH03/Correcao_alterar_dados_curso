@@ -1,4 +1,4 @@
-# Correcao_alterar_dados_curso
+# Exercício correcao_alterar_dados_curso
 💡 Execute os scripts que estão na pasta "<i>cadastro_bd\scripts_banco</i>" no Workbench ou no PHPMyAdmin. Execute os scripts na ordem abaixo :
 <br>
 <i>
